@@ -1,4 +1,4 @@
-[# Interfacing-a-Digital-INPUT-push-button-to-LPC2148-ARM-7-Microcontroller-
+# Interfacing-a-Digital-INPUT-push-button-to-LPC2148-ARM-7-Microcontroller-
 
 
 Ex. No. : 3
@@ -166,5 +166,3 @@ Interfacing a digital output with ARM microcontroller is executed
 
 
 
-
-](https://github.com/vasanthkumarch/Interfacing-a-Digital-INPUT-push-button-to-LPC2148-ARM-7-Microcontroller-.git)
